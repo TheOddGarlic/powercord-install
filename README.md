@@ -2,7 +2,7 @@
 Auto-installs powercord for Windows (tested on git bash), Linux (Not Tested Yet), and MacOS (Not Tested Yet).
 
 ## Usage
-Just run it.
+Just run `curl https://raw.githubusercontent.com/TheOddGarlic/powercord-install/master/pc-install.sh | sh`. I've heard that newer installs of Git for Windows does not include curl so you might have to install it. 
 
 ## Works On
 | OS                         | Status         |
